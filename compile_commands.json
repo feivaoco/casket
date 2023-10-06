@@ -1,0 +1,9 @@
+[
+	{ 
+		"directory": "C:\Acomodar\Codigos\c\libpd\casket",
+		"arguments": ["gcc", "-Iinclude", "-Llib", "-c", "-o", "bin/main.o", "src/main.c", "-O3", "-llibpd"],
+		"file": "src/main.c",
+
+	}
+
+]
