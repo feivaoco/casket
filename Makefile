@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Iinclude -Llib -O3 -llibpd -lportaudio
+CFLAGS = -Iinclude -Llib -O3 -llibpd
 
 BIN = bin/
 SRC = src/
